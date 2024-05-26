@@ -1,0 +1,11 @@
+.input-fatec{
+    color: black;
+    background-color: white;
+    display: block;
+    margin: 10px auto;
+    padding: 2px;
+}
+
+.input-fatec::placeholder{
+    color: gray;
+}
